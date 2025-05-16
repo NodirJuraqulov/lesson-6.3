@@ -4,7 +4,6 @@ import { FaInstagram } from "react-icons/fa6";
 import { CiSearch } from "react-icons/ci";
 import { FaRegUser } from "react-icons/fa6";
 import { BsCart2 } from "react-icons/bs";
-import './style.css'
 import toast from 'react-hot-toast';
 import { COLLACTION } from '../../static'
 

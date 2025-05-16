@@ -61,8 +61,8 @@ export const HEROS = [
         desc: "Get up to $630 instant trade-in and double the storage on us.",
         more: "Shop more phone deals",
         image: hero1,
+        hover: 'main1',
         color: '#000',
-        bg_color: '#fff',
         collection: ["Galaxy S25 Ultra", "Galaxy Z Fold6", "Galaxy Tab S10 FE+", "Galaxy Watch Ultra"]
     },
     {
@@ -72,8 +72,8 @@ export const HEROS = [
         desc: "The Neo QLED 4K QN70F - sleek, ultra-thin design delivering AI-enhanced 4K  pictured quality, just in time for your summer viewing.",
         more: "Shop all TV deals",
         image: hero2,
+        hover: 'main2',
         color: '#fff',
-        bg_color: '#000',
         collection: ["Neo QLED QN70F", "Neo QLED QN1EF", "Q-Series Soundbar"]
     },
     {
@@ -83,8 +83,8 @@ export const HEROS = [
         desc: "SAve $600 on the new Bespoke AI Laundry Vented Combo. Plus enjoy a 2-year warrantly on us.",
         more: "Shop all appliance deals",
         image: hero3,
+        hover: 'main2',
         color: '#fff',
-        bg_color: '#000',
         collection: ["Bespoke Laundry", "Bespoke Refrigerators", "Bespoke Vacuums", "Bespoke Dishwashers", "Buy Smart, Buy Early"]
     },
     {
@@ -94,8 +94,8 @@ export const HEROS = [
         desc: "Immerse yourself in a panoramic gaming experience wiht a 1000R curved display.",
         more: "Learn more",
         image: hero4,
+        hover: 'main2',
         color: '#fff',
-        bg_color: '#000',
         collection: [`49" Odyssey G9`, `27" Odyssey 3D`, `27" Odyssey G8`, `9100 PRO SSD`]
     }
 ]
